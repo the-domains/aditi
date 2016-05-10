@@ -1,14 +1,15 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: 'Whats goin on ! '
-datePublished: '2016-05-10T00:53:54.726Z'
-dateModified: '2016-05-10T00:53:54.500Z'
+datePublished: '2016-05-10T02:03:58.493Z'
+dateModified: '2016-05-10T00:56:51.929Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-10-inner-piece.md
 authors: []
 publisher:
   name: null
@@ -16,9 +17,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-10-inner-piece.md
 url: inner-piece/index.html
-_type: Article
+_type: WebPage
 
 ---
 Whats goin on !
