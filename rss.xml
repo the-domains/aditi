@@ -4,8 +4,15 @@
         <description><![CDATA[Aditi ]]></description>
         <link>https://thegrid.ai/aditi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 00:54:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 00:55:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aditi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Travel Diary ]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7362aac-9a2d-43cc-9eb1-9ed0b0b5598b.jpg">]]></description>
+            <link>https://thegrid.ai/aditi/travel-diary/index.html</link>
+            <guid isPermaLink="false">e973acea-2f1d-4fa0-b4dd-a854a744537a</guid>
+            <pubDate>Tue, 10 May 2016 00:55:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inner Piece ]]></title>
             <description><![CDATA[<p>Whats goin on ! </p>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/aditi/about-me/index.html</link>
             <guid isPermaLink="false">2bfa28b2-c063-4669-a78d-9c187b942d33</guid>
             <pubDate>Tue, 10 May 2016 00:53:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Travel Diary ]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7362aac-9a2d-43cc-9eb1-9ed0b0b5598b.jpg">]]></description>
-            <link>https://thegrid.ai/aditi/travel-diary/index.html</link>
-            <guid isPermaLink="false">e973acea-2f1d-4fa0-b4dd-a854a744537a</guid>
-            <pubDate>Tue, 10 May 2016 00:19:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
